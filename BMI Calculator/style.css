@@ -1,0 +1,16 @@
+.header {
+    text-transform: uppercase;
+}
+
+label {
+    text-transform: uppercase;
+}
+
+input {
+    padding: 2.5px;
+}
+
+button {
+    display: block;
+    margin-bottom: 10px;
+}
